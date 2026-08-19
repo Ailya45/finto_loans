@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # finto_loans
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# finto_loans
+>>>>>>> 927878db063579a1651b89da1419a881b6c7d042
