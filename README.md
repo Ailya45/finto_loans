@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # finto_loans
 
 A new Flutter project.
@@ -18,4 +17,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # finto_loans
->>>>>>> 927878db063579a1651b89da1419a881b6c7d042
